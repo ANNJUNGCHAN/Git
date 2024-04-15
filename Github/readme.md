@@ -12,3 +12,9 @@ git init
 ```
 git branch -M main
 ```
+
+- github에 올리기
+
+```
+git push -u [github 원격 저장소 주소] main
+```
