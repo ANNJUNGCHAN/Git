@@ -18,9 +18,11 @@ git branch -M main
 . 상단 파란색 박스 안에 주소 있음
 . http부터 시작하는 주소
   (ex.https://github.com/ANNJUNGCHAN/Git.git)
+. 한번 '-u'를 쓰면, 원격 저장소 주소를 자동으로 기억
 
 ```
 git push -u [github 원격 저장소 주소] main
+git push [github 원격 저장소 주소] main
 ```
 
 - github 원격 저장소 주소 변수 문법으로 간단하게 하기
