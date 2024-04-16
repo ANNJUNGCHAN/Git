@@ -22,7 +22,7 @@ git branch -M main
 
 ```
 git push -u [github 원격 저장소 주소] main
-git push [github 원격 저장소 주소] main
+git push
 ```
 
 - github 원격 저장소 주소 변수 문법으로 간단하게 하기
