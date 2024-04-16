@@ -30,3 +30,9 @@ git push
 ```
 git remote add [변수명] [주소]
 ```
+
+- 원격 저장소 복사하기
+
+```
+git clone [원격저장소 주소]
+```
